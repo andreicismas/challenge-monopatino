@@ -1,0 +1,78 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background: url('img/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 67% ;
+  margin: auto;
+  margin-top: 25px;
+}
+
+main{
+  background-color: 	rgb(0, 0, 0,0.4);
+  border-radius: 15px;
+  padding-bottom: 1%;
+}
+
+.logo{
+  text-align: center;
+}
+
+img{
+  width: 20%;
+  padding-top: 7%;
+}
+h2{
+  color:rgb(0,221,0);
+  margin: 0;
+}
+.input{
+  text-align: center;
+  background-color: rgb(0,221,0);
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 0.9%;
+}
+input[type=checkbox]{
+  margin-left: 10%;
+}
+.span{
+  color: white;
+}
+
+.white{
+  color:white;
+  margin:0.6%;
+  padding-left: 9.4%;
+}
+.level:empty {
+  margin: 0;
+  margin-left: 10%;
+  width: 23%;
+  height: 25px;
+  background: rgb(245,180,83);
+  border-radius: 5px;
+}
+.level1:empty {
+  margin: 0;
+  margin-left: 10%;
+  width: 50%;
+  height: 25px;
+  background: rgb(30,192,29);
+  border-radius: 5px;
+}
+.level2:empty {
+  margin: 0;
+  margin-left: 10%;
+  width: 11%;
+  height: 25px;
+  background: rgb(190,65,65);
+  border-radius: 5px;
+}
+.gini, .mike24, .fede154 {
+  padding-top: 2%;
+}
+
+footer{
+  padding-left: 40%;
+}
